@@ -1,2 +1,7 @@
 print('Hello world')
-print('Hello Geos')
+
+print('Hello Github')
+
+friend = ['Haus','Cha','Kai']
+
+print(friend[0])
